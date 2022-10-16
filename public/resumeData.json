@@ -1,0 +1,148 @@
+{
+  "link": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
+  "main": {
+    "name": "Vijay Raj",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "vj_profile.jpg",
+    "bio": "Hi there! I am Vijay! You might also know me as Vijayrajdev. I have been coding for over 1.5 years now. As a Full Stack developer I have worked on both mini projects and large clone projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. Along with these i'm also an Electronics engineer pursuing my BE degree in Anna university affilated college,chennai.",
+    "contactmessage": "Get in touch with me to be a part of developer journey !",
+    "email": "vijayck2002@gmail.com",
+    "phone": "+91 9150199456",
+    "address": {
+      "street": "Palikaranai",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600100"
+    },
+    "website": "https://vijayraj.vercel.app",
+    "resumedownload": "/Resume/VijayDocs.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/people/Vijay-Raj/100050050001319/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vijay-raj-02/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/vijay_rj02/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Vijayrajdev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Anna University - Chennai",
+        "degree": "Bachelor's Degree, ECE",
+        "graduated": "July 2023",
+        "description": "Pursuing with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "DevTown",
+        "title": "Full Stack Developer",
+        "years": "Sep 2021 - Dec 2021",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Next Js",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "GPA Calci (React JS)",
+        "category": "",
+        "image": "gpacalci.png",
+        "url": "https://gpa-calci.vercel.app/"
+      },
+      {
+        "title": "Bitmoji World (Next JS)",
+        "category": "",
+        "image": "bitmojiworld.png",
+        "url": "https://vijaybitmojiworld.vercel.app/"
+      },
+      {
+        "title": "Apple Redesign (Next JS)",
+        "category": "",
+        "image": "applerd.png",
+        "url": "https://apple-vj.vercel.app/"
+      },
+      {
+        "title": "Chart Generator (React JS)",
+        "category": "",
+        "image": "chartgen.png",
+        "url": "https://chart-gen.netlify.app/"
+      },
+      {
+        "title": "Quizy (React JS)",
+        "category": "",
+        "image": "quizy.png",
+        "url": "https://vj-quizy.vercel.app/"
+      },
+      {
+        "title": "Quora2.0 Clone (React JS)",
+        "category": "",
+        "image": "quora.png",
+        "url": "https://quora2-0.vercel.app/"
+      },
+      {
+        "title": "To (React JS)",
+        "category": "",
+        "image": "todo.png",
+        "url": "https://vj-to.vercel.app/"
+      },
+      {
+        "title": "Evolv fit(React JS)",
+        "category": "",
+        "image": "dash.png",
+        "url": "https://evolvfit-vj.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vijay is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to me... I would definitely recommend",
+        "user": "Ganesh Kumar"
+      }
+    ]
+  }
+}
